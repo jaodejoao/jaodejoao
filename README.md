@@ -14,7 +14,7 @@ Adoro explorar novas ferramentas, entender como tudo se conecta e encontrar solu
             src="https://custom-icon-badges.demolab.com/badge/Linkedin-blue?style=for-the-badge&logoColor=white&logo=Linked"
         />
     </a>
-    <a href=" ">
+    <a href="https://jaodejoao.github.io/portfolio/">
         <img 
             alt="Portfólio" 
             title="Meu Portfólio" 
